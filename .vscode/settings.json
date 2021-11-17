@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5aad0573-d4ac-4596-a38e-eb7b6bea37eb/resourceGroups/rabbitistokki_rg_Windows_westeurope/providers/Microsoft.Web/sites/testHtmls88",
+    "appService.deploySubpath": "."
+}
